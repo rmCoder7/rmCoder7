@@ -1,6 +1,6 @@
 ![MaterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 <h1 align="center">Hi 👋, I'm Rafi Mohammed Ayon</h1>
-<h3 align="center">A passionaate programmer</h3>
+<h3 align="center">A passionaate Network Engineer and programmer</h3>
 
 <img align="right" alt="coding" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/rmcoder7" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/rmcoder7?logo=twitter&style=for-the-badge" alt="https://twitter.com/rmcoder7" /></a> </p>
 
-- 🌱 I’m currently learning **C-Data structure and algorithm**
+- 🌱 I’m currently learning **Python with Automation and Redhat Linux*
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ahamed-ayon](https://www.linkedin.com/in/ahamed-ayon)
 
-- 💬 Ask me about **MERN STack**
+- 💬 Ask me about **Information Technology**
 
 - 📫 How to reach me **mohammedayon2021@gmail.com**
 
